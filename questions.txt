@@ -1,0 +1,80 @@
+EC1.X = 'Prince Charles' ;
+    X = 'Prince Charles' ;
+    X = 'Princess Anne' ;
+    X = 'Princess Anne' ;
+    X = 'Prince Andrew' ;
+    X = 'Prince Andrew' ;
+    X = 'Prince Edward' ;
+    X = 'Prince Edward' ;
+    X = 'Viscount Linley' ;
+    X = 'Viscount Linley' ;
+    X = 'Lady Sarah Chatto' ;
+    X = 'Lady Sarah Chatto' ;
+
+EC2.X = 'Prince Charles' ;
+    X = 'Prince Charles' ;
+    X = 'Princess Anne' ;
+    X = 'Princess Anne' ;
+    X = 'Prince Andrew' ;
+    X = 'Prince Andrew' ;
+    X = 'Prince Edward' ;
+    X = 'Prince Edward' ;
+    X = 'Viscount Linley' ;
+    X = 'Viscount Linley' ;
+    X = 'Lady Sarah Chatto' ;
+    X = 'Lady Sarah Chatto' ;
+
+1.  X = 'King George VI'
+
+2.  X = 'Queen Mary'
+
+3.  X = 'King George V'
+
+4.  X = 'King George V' ;
+    X = 'Queen Mary' ;
+
+5.  X = 'Prince William' ;
+    X = 'Prince Henry' ;
+
+6.  X = 'Queen Elizabeth II' ;
+    X = 'Princess Margaret' ;
+    X = 'Queen Elizabeth II' ;
+    X = 'Princess Margaret'.
+
+7.  X = 'Prince Charles' ;
+    X = 'Prince Andrew' ;
+    X = 'Prince Edward'.
+
+8.  X = 'Princess Anne'
+
+9.  false
+
+10. X = 'Catherine Middleton'
+
+11. false
+
+12. Correct to: "descendent('Queen Victoria',Y)"? yes
+    false.
+
+13. false
+
+14. false
+
+15. X = 'Queen Elizabeth II' ;
+    X = 'King Edward VIII' ;
+    X = 'King George VI'.
+
+16) I love how consise prolog is. A lot can be done
+    in very short statements.
+
+17) I don't like how limited I feel while writing prolog. The lack of normal
+    function bodies really bothers me. I know that's not what the language
+    is designed for, but it still messes me up on occasion.
+
+18) I enjoyed the length of the lab, as well as the concept. What I didn't enjoy
+    was using the kings and queens. They are hard to tell the difference from in
+    the output, and make it seem harder than it needs to be.
+
+19) I spent about three hours on this lab.
+
+20) I will most likely not use prolog again, I have trouble seeing it's practicality.
